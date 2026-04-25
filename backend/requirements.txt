@@ -1,0 +1,1 @@
+Flask==2.3.0\nopencv-python==4.7.0\nnumpy==1.24.0\npandas==1.5.0\nPillow==9.5.0\npython-dotenv==1.0.0\ngunicorn==20.1.0\nWerkzeug==2.3.0
